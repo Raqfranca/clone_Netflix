@@ -1,2 +1,7 @@
-# clone_Netflix
-Recriando a interface principal da Netflix
+# Clone da Netflix
+
+Desafio de código 
+
+Recriando a interface principal da Netflix, utilizando as tecnologias:HTML, CSS e JQuery. 
+
+
