@@ -2,6 +2,6 @@
 
 Desafio de código 
 
-Recriando a interface principal da Netflix, utilizando as tecnologias:HTML, CSS e JQuery. 
+Recriando a interface principal da Netflix, utilizando as tecnologias: HTML, CSS e JQuery. 
 
 
